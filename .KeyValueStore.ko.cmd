@@ -1,0 +1,1 @@
+cmd_/home/smc/Documents/Danish/LKM/KeyValueStore.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/smc/Documents/Danish/LKM/KeyValueStore.ko /home/smc/Documents/Danish/LKM/KeyValueStore.o /home/smc/Documents/Danish/LKM/KeyValueStore.mod.o;  true
